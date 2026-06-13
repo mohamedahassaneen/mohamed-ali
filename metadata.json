@@ -1,0 +1,6 @@
+{
+  "name": "Smart Assistant",
+  "description": "A professional AI-powered mobile assistant for university students with study planning, notifications, books & notes integration, and secure authorization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
